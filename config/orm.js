@@ -78,7 +78,7 @@ let orm = {
     });
   },
 
-  //delete existing burger
+  
   delete: function(table, condition, cb) {
     let queryString = "DELETE FROM " + table;
     queryString += " WHERE ";
