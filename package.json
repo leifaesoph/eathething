@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/susanldavenport/burger.git"
+    "url": "https://github.com/leifaesoph/eathething"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/susanldavenport/burger/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/susanldavenport/burger#readme",
+  "homepage": "https://github.com/leifaesoph/eathething",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
